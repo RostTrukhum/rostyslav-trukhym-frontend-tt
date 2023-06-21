@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rostyslav-trukhym-frontend-tt/static/css/main.03a4cca0.css",
+    "main.js": "/rostyslav-trukhym-frontend-tt/static/js/main.b2e1309b.js",
+    "index.html": "/rostyslav-trukhym-frontend-tt/index.html",
+    "main.03a4cca0.css.map": "/rostyslav-trukhym-frontend-tt/static/css/main.03a4cca0.css.map",
+    "main.b2e1309b.js.map": "/rostyslav-trukhym-frontend-tt/static/js/main.b2e1309b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03a4cca0.css",
+    "static/js/main.b2e1309b.js"
+  ]
+}
